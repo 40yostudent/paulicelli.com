@@ -1,11 +1,11 @@
 {
-	"title": "Eleventy Base Blog v8",
-	"url": "https://example.com/",
-	"language": "en",
-	"description": "I am writing about my experiences as a naval navel-gazer.",
+	"title": "Sabino Paulicelli",
+	"url": "https://paulicelli.com/",
+	"language": "it",
+	"description": "My epic journey learning Computer SCience and switching career at 40.",
 	"author": {
-		"name": "Your Name Here",
-		"email": "youremailaddress@example.com",
-		"url": "https://example.com/about-me/"
+		"name": "Sabino Paulicelli",
+		"email": "sabino@paulicelli.com",
+		"url": "https://paulicelli.com/about-me/"
 	}
 }
